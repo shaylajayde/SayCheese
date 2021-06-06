@@ -1,0 +1,5 @@
+﻿  SayCheese.cpp
+C:\Users\shayl\OneDrive\Documents\School\ITCS 2530 - C++\Week 2\SayCheese\SayCheese.cpp(56,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\shayl\OneDrive\Documents\School\ITCS 2530 - C++\Week 2\SayCheese\SayCheese.cpp(64,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shayl\OneDrive\Documents\School\ITCS 2530 - C++\Week 2\SayCheese\SayCheese.cpp(81,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SayCheese.vcxproj -> C:\Users\shayl\OneDrive\Documents\School\ITCS 2530 - C++\Week 2\SayCheese\Debug\SayCheese.exe
